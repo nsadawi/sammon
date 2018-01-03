@@ -1,5 +1,5 @@
-I have created a Jupyter Notebook abd used the updated function by Irene-GM
-More here: [https://github.com/Irene-GM/sammon]
+I have created a Jupyter Notebook and used the updated function by @Irene-GM
+More here: https://github.com/Irene-GM/sammon
 
 
 Sammon mapping in Python
